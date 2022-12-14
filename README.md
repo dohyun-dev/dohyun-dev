@@ -3,7 +3,7 @@
 <br><br>
 
 ## Notion
-https://www.notion.so/5a72c12768664b699dc8f02218553285
+[https://www.notion.so/5a72c12768664b699dc8f02218553285](https://neat-calcium-c27.notion.site/b3ef841d526141939ca3313b68b5664b)
 <br><br>
 
 ## Stats 
