@@ -1,5 +1,5 @@
 ## Introduce 👋👋👋👋
-**HI I'm DoHyeon**!!
+**HI I'm DoHyun**!!
 <br><br>
 
 ## Notion
