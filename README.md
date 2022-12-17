@@ -1,6 +1,4 @@
-## Introduce 👋👋👋👋
-**HI I'm DoHyun**!!
-<br><br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hi,%20I'm%20Dohyun&fontSize=45)
 
 ## Notion
 [https://www.notion.so/5a72c12768664b699dc8f02218553285](https://neat-calcium-c27.notion.site/b3ef841d526141939ca3313b68b5664b)
