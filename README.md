@@ -1,16 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=438CB5&height=150&section=header&text=Hi,%20I'm%20Dohyun&fontSize=90&fontColor=FFFFFF)
 
 ## 🧑🏻‍💻 About Me
+
 🤗 Notion : [https://neat-calcium-c27.notion.site/b3ef841d526141939ca3313b68b5664b](https://neat-calcium-c27.notion.site/Dohyun-Kwon-b3ef841d526141939ca3313b68b5664b?pvs=4)
 </br></br>
 ✉️ Email : tobeykwon@gmail.com
 </br></br>
-💻 TechBlog : https://velog.io/@dohyun-dev 
+💻 TechBlog : https://velog.io/@dohyun-dev
 </br></br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tobikwon0425)](https://solved.ac/tobikwon0425)
 ![dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyun-dev&theme=react&show_icons=true) </br>
 
 ## 🛠 Tech Stack
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -33,7 +35,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 
 ## ✏️ Current Leaning
-<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white"> <img src="https://img.shields.io/badge/Elastic Stack-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
--
 
-마지막 수정일 : 2023-09-03
+## <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white"> <img src="https://img.shields.io/badge/Elastic Stack-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+
+마지막 수정일 : 2023-09-06
